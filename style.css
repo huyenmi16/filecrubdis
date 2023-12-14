@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000; /* Black background */
+  }
+  
+  .planet {
+    width: 200px;
+    height: 200px;
+    background-color: #3498db; /* Blue planet color */
+    border-radius: 50%;
+    box-shadow: 0 0 30px rgba(52, 152, 219, 0.8); /* Blue planet glow */
+  }
+  
